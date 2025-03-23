@@ -6,6 +6,5 @@ node_modules
 
 # build process css
 style.comp.css
-style.concat.css
 style.prefix.css
 
